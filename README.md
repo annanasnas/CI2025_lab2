@@ -1,6 +1,6 @@
 # TSP algorithms
 
-This lab was made by 2 students: Anastasiia Siurakshina (s337071) and Alessandro Contratto (s342754).
+Developed by Anastasiia Siurakshina (s337071) and Alessandro Contratto (s342754).
 
 ---
 
